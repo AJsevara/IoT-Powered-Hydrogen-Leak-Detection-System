@@ -45,10 +45,10 @@ This project provides a **smart hydrogen leak detection system** using **ESP8266
 ## 📸 Project Demo  
 
 ### 🔹Safe  
-![Safe](media/h2%20detector.jpg)  
+![Safe](media/h2%20detector%202.jpg)  
 
 ### 🔹 Gas Leak Alert in Action  
-![Leak Detected](media/h2%20detector%202.jpg)  
+![Leak Detected](media/h2%20detector.jpg)  
 
 
 ## 📢 Future Improvements
